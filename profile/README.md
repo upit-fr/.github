@@ -41,7 +41,7 @@ UP IT suit des standards modernes en matière de développement :
 
 <img src="https://avatars.githubusercontent.com/u/115811899?v=4" alt="Antoine Masia" width="100" style="border-radius: 50%;" />
 
-**Antoine Masia** – Lead Developer  
+**Antoine Masia** – FullStack Developer  
 🔗 GitHub : [@MasiaAntoine](https://github.com/MasiaAntoine)  
 📧 Email : [antoine.masia@upit.fr](mailto:antoine.masia@upit.fr)
 
