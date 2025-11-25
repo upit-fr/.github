@@ -49,7 +49,7 @@ UP IT suit des standards modernes en matière de développement :
 
 Pour toute demande concernant l'organisation GitHub ou l'accès à un dépôt, merci de contacter l'équipe UP IT via :
 
-👉 **[https://www.UP IT.fr/](https://www.UP IT.fr/)**
+👉 **[https://www.upit.fr/](https://www.upit.fr/)**
 
 ---
 
