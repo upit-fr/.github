@@ -43,6 +43,13 @@ Tous les dépôts sont **privés**.
 - Chaque dépôt dispose de règles de contribution (issues, PR, conventions de code…).
 - Les accès sont gérés selon le rôle et les besoins des membres de l'équipe.
 
+### 🤖 Compte de service TeamCity
+
+Le compte [@TeamCity-UPIT](https://github.com/TeamCity-UPIT) est le compte technique utilisé par **TeamCity** pour accéder aux dépôts de l'organisation et gérer l'ensemble des projets d'intégration continue. Il dispose des droits nécessaires à ce fonctionnement.
+
+> [!WARNING]
+> **Ne jamais supprimer ce compte de l'organisation, ni réduire ses droits.** Sans lui, TeamCity ne peut plus accéder aux dépôts et toutes les builds des projets échouent.
+
 ## 🛠 Technologies & bonnes pratiques
 
 UP IT suit des standards modernes en matière de développement :
