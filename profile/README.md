@@ -21,6 +21,22 @@ Cette organisation a pour objectif de centraliser, structurer et gérer l'ensemb
 - **POC / prototypes** réalisés pour de la R&D
 - **Documentation technique** ou notes d'architecture
 
+## 🗂 Projets de la société
+
+Tous les dépôts sont **privés**.
+
+| Projet                                                                      | Stack                                                                            | Description                                         | Responsable   |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------- | ------------- |
+| [eden-vuejs](https://github.com/upit-fr/eden-vuejs)                         | Vue 3, Vite, TypeScript, Tailwind CSS 4, Pinia, TanStack Query, Chart.js, Vitest | Application EDEN — frontend                         | Antoine Masia |
+| [eden-nestjs](https://github.com/upit-fr/eden-nestjs)                       | NestJS 11, TypeScript, TypeORM, PostgreSQL, Jest                                 | Application EDEN — API backend                      | Antoine Masia |
+| [portal-eden-vuejs](https://github.com/upit-fr/portal-eden-vuejs)           | Vue 3, Vite, TypeScript, Tailwind CSS 4, Pinia, TanStack Query, Vitest           | Portail EDEN destiné aux clients                    | Antoine Masia |
+| [notule-vuejs](https://github.com/upit-fr/notule-vuejs)                     | Vue 3, Vite, TypeScript, Tailwind CSS 4, Tiptap, Yjs, Socket.IO, Vitest          | Notule — notes de réunion collaboratives (frontend) | Antoine Masia |
+| [notule-nestjs](https://github.com/upit-fr/notule-nestjs)                   | NestJS 11, TypeScript, TypeORM, PostgreSQL, Socket.IO, Yjs                       | Notule — API backend et collaboration temps réel    | Antoine Masia |
+| [SRV-PROVISIONNING](https://github.com/upit-fr/SRV-PROVISIONNING)           | —                                                                                | —                                                   | Anthony Merlo |
+| [SRV-PROVISIONING-STACK](https://github.com/upit-fr/SRV-PROVISIONING-STACK) | —                                                                                | —                                                   | Anthony Merlo |
+| [upit-sonarqube](https://github.com/upit-fr/upit-sonarqube)                 | Docker Compose, SonarQube Community, PostgreSQL 16                               | Instance SonarQube partagée (qualité de code)       | Antoine Masia |
+| [teamcity-test](https://github.com/upit-fr/teamcity-test)                   | —                                                                                | Tests d'intégration continue avec TeamCity          | Antoine Masia |
+
 ## 👥 Accès & collaboration
 
 - Les projets sont répartis entre dépôts **publics** (open-source ou vitrine) et **privés** (internes ou clients).
@@ -45,6 +61,20 @@ UP IT suit des standards modernes en matière de développement :
 🔗 GitHub : [@MasiaAntoine](https://github.com/MasiaAntoine)  
 📧 Email : [antoine.masia@upit.fr](mailto:antoine.masia@upit.fr)
 
+## 🔧 Équipe technique
+
+<img src="https://github.com/kcrlmnzr.png" alt="Carla Munzer" width="100" style="border-radius: 50%;" />
+
+**Carla Munzer** – Technicienne  
+🔗 GitHub : [@kcrlmnzr](https://github.com/kcrlmnzr)  
+📧 Email : [carla.munzer@upit.fr](mailto:carla.munzer@upit.fr)
+
+<img src="https://github.com/VICEVITO.png" alt="Anthony Merlo" width="100" style="border-radius: 50%;" />
+
+**Anthony Merlo** – Alternant technicien  
+🔗 GitHub : [@VICEVITO](https://github.com/VICEVITO)  
+📧 Email : [anthony.merlo@upit.fr](mailto:anthony.merlo@upit.fr)
+
 ## 📬 Contact
 
 Pour toute demande concernant l'organisation GitHub ou l'accès à un dépôt, merci de contacter l'équipe UP IT via :
@@ -53,4 +83,4 @@ Pour toute demande concernant l'organisation GitHub ou l'accès à un dépôt, m
 
 ---
 
-_Dernière mise à jour : Novembre 2025_
+_Dernière mise à jour : Octobre 2026_
