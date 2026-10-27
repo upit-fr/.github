@@ -73,6 +73,7 @@ UP IT suit des standards modernes en matière de développement :
 <img src="https://github.com/kcrlmnzr.png" alt="Carla Munzer" width="100" style="border-radius: 50%;" />
 
 **Carla Munzer** – Ingénieure Infrastructure, DevOps & Cybersécurité  
+_🕷️ Spiderman à ses heures perdues — elle tisse les réseaux le jour et sauve les serveurs la nuit (chut, c'est un secret)._  
 🔗 GitHub : [@kcrlmnzr](https://github.com/kcrlmnzr)  
 📧 Email : [carla.munzer@upit.fr](mailto:carla.munzer@upit.fr)
 
