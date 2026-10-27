@@ -25,17 +25,17 @@ Cette organisation a pour objectif de centraliser, structurer et gérer l'ensemb
 
 Tous les dépôts sont **privés**.
 
-| Projet                                                                      | Stack                                                                            | Description                                         | Responsable   |
-| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------- | ------------- |
-| [eden-vuejs](https://github.com/upit-fr/eden-vuejs)                         | Vue 3, Vite, TypeScript, Tailwind CSS 4, Pinia, TanStack Query, Chart.js, Vitest | Application EDEN — frontend                         | Antoine Masia |
-| [eden-nestjs](https://github.com/upit-fr/eden-nestjs)                       | NestJS 11, TypeScript, TypeORM, PostgreSQL, Jest                                 | Application EDEN — API backend                      | Antoine Masia |
-| [portal-eden-vuejs](https://github.com/upit-fr/portal-eden-vuejs)           | Vue 3, Vite, TypeScript, Tailwind CSS 4, Pinia, TanStack Query, Vitest           | Portail EDEN destiné aux clients                    | Antoine Masia |
-| [notule-vuejs](https://github.com/upit-fr/notule-vuejs)                     | Vue 3, Vite, TypeScript, Tailwind CSS 4, Tiptap, Yjs, Socket.IO, Vitest          | Notule — notes de réunion collaboratives (frontend) | Antoine Masia |
-| [notule-nestjs](https://github.com/upit-fr/notule-nestjs)                   | NestJS 11, TypeScript, TypeORM, PostgreSQL, Socket.IO, Yjs                       | Notule — API backend et collaboration temps réel    | Antoine Masia |
-| [SRV-PROVISIONNING](https://github.com/upit-fr/SRV-PROVISIONNING)           | —                                                                                | —                                                   | Anthony Merlo |
-| [SRV-PROVISIONING-STACK](https://github.com/upit-fr/SRV-PROVISIONING-STACK) | —                                                                                | —                                                   | Anthony Merlo |
-| [upit-sonarqube](https://github.com/upit-fr/upit-sonarqube)                 | Docker Compose, SonarQube Community, PostgreSQL 16                               | Instance SonarQube partagée (qualité de code)       | Antoine Masia |
-| [teamcity-test](https://github.com/upit-fr/teamcity-test)                   | —                                                                                | Tests d'intégration continue avec TeamCity          | Antoine Masia |
+| Projet                                                                      | Stack                                                                            | Description                                         | Responsable                 |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------- |
+| [eden-vuejs](https://github.com/upit-fr/eden-vuejs)                         | Vue 3, Vite, TypeScript, Tailwind CSS 4, Pinia, TanStack Query, Chart.js, Vitest | Application EDEN — frontend                         | Antoine Masia               |
+| [eden-nestjs](https://github.com/upit-fr/eden-nestjs)                       | NestJS 11, TypeScript, TypeORM, PostgreSQL, Jest                                 | Application EDEN — API backend                      | Antoine Masia               |
+| [portal-eden-vuejs](https://github.com/upit-fr/portal-eden-vuejs)           | Vue 3, Vite, TypeScript, Tailwind CSS 4, Pinia, TanStack Query, Vitest           | Portail EDEN destiné aux clients                    | Antoine Masia               |
+| [notule-vuejs](https://github.com/upit-fr/notule-vuejs)                     | Vue 3, Vite, TypeScript, Tailwind CSS 4, Tiptap, Yjs, Socket.IO, Vitest          | Notule — notes de réunion collaboratives (frontend) | Antoine Masia               |
+| [notule-nestjs](https://github.com/upit-fr/notule-nestjs)                   | NestJS 11, TypeScript, TypeORM, PostgreSQL, Socket.IO, Yjs                       | Notule — API backend et collaboration temps réel    | Antoine Masia               |
+| [SRV-PROVISIONNING](https://github.com/upit-fr/SRV-PROVISIONNING)           | —                                                                                | —                                                   | Anthony Merlo               |
+| [SRV-PROVISIONING-STACK](https://github.com/upit-fr/SRV-PROVISIONING-STACK) | —                                                                                | —                                                   | Anthony Merlo               |
+| [upit-sonarqube](https://github.com/upit-fr/upit-sonarqube)                 | Docker Compose, SonarQube Community, PostgreSQL 16                               | Instance SonarQube partagée (qualité de code)       | Antoine Masia               |
+| [teamcity-test](https://github.com/upit-fr/teamcity-test)                   | —                                                                                | Tests d'intégration continue avec TeamCity          | Antoine Masia, Carla Munzer |
 
 ## 👥 Accès & collaboration
 
